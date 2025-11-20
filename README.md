@@ -1,7 +1,22 @@
-<h1>Hi 👋, I'm Minh!</h1>
-<p>🎓 Senior Computer Science student at Bowling Green State University (Class of 2026), passionate about building innovative software solutions.</p>
-<p>💻 Aspiring Software Engineer with a love for problem-solving, clean code, and lifelong learning.</p>
-<p>Outside of tech, you’ll find me enjoying soccer ⚽, playing guitar 🎸, or exploring the latest in AI and emerging technologies 🤖.</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Minh!;Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
+  <b>Senior Computer Science Student @ BGSU (Class of 2026)</b>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
+</p>
+
+<p align="center">
+🎓 Passionate about building innovative software solutions<br/>
+💻 Aspiring Software Engineer with a love for problem-solving, clean code, and lifelong learning<br/>
+⚽ Soccer enthusiast | 🎸 Guitar player | 🤖 AI & Tech Explorer
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 <h2>👨🏻‍💻 Tech Stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
