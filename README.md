@@ -72,21 +72,53 @@
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
 </p>
 
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://lnkd.in/p/gzyHgtXR">My summer 2025 recap</a></li>
-<li><a target="_blank" href="https://lnkd.in/p/gkz3PFQT">My internship journey</a></li>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Recent Posts
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-<h2>📝 Blog</h2>
-<p><a target="_blank" href="https://m-talks.onrender.com/">
-   <img src="https://img.shields.io/badge/Blog-M%20Talks-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog" />
+<div align="center">
+  
+  📝 <a target="_blank" href="https://lnkd.in/p/gzyHgtXR">**My summer 2025 recap**</a>
+  
+  💼 <a target="_blank" href="https://lnkd.in/p/gkz3PFQT">**My internship journey**</a>
+  
+</div>
+
+<h2 align="center">
+  Blog
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35">
+  <a target="_blank" href="https://m-talks.onrender.com/">
+    <img src="https://img.shields.io/badge/Blog-M%20Talks-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog" />
+  </a>
+  <br/>
+  <em>✨ Check out my latest thoughts on tech, coding, and more!</em>
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  Connect With Me
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+</h2>
+
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/minhnguyen1111">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/minhqn.py">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/minhqn.py">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/minhnguyen1111" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/minhqn.py" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/minhqn.py" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p align="center">
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Minh111104&show_icons=true&locale=en" alt="Minh111104" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Minh111104&" alt="Minh111104" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minh111104&show_icons=true&locale=en&layout=compact" alt="Minh111104" /></p>
