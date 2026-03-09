@@ -139,10 +139,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minh111104&theme=tokyonight" alt="Minh111104" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minh111104&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Minh111104" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minh111104/minh111104/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minh111104/minh111104/output/github-snake.svg" />
