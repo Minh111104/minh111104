@@ -126,12 +126,6 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Minh111104&theme=tokyonight&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A&column=4" alt="Minh111104" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minh111104&show_icons=true&locale=en&theme=tokyonight" alt="Minh111104" />
 </p>
 
