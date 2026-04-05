@@ -126,10 +126,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minh111104&show_icons=true&locale=en&theme=tokyonight" alt="Minh111104" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minh111104&theme=tokyonight" alt="Minh111104" />
 </p>
 
