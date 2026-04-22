@@ -79,6 +79,8 @@
 </h2>
 
 <div align="center">
+
+  🥇 <a target="_blank" href="https://www.linkedin.com/posts/minhnguyen1111_rockethacks-hackathon-sustainability-ugcPost-7439766341236146176-E6rB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1BoH0B76-qDtyYXfCHMkdZmphbDCg1yOc">**My latest hackathon win**</a>
   
   📝 <a target="_blank" href="https://lnkd.in/p/gzyHgtXR">**My summer 2025 recap**</a>
   
