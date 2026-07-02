@@ -11,7 +11,7 @@
 <p align="center">
 🎓 Passionate about building innovative software solutions<br/>
 💻 Aspiring Software Engineer with a love for problem-solving, clean code, and lifelong learning<br/>
-⚽ Soccer enthusiast | 🎸 Guitar player | 🤖 AI & Tech Explorer
+⚽ Football enthusiast | 🎸 Guitar player | 🤖 AI & Tech Explorer
 </p>
 
 <p align="center">
