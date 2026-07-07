@@ -86,9 +86,7 @@
   🥇 <a target="_blank" href="https://www.linkedin.com/posts/minhnguyen1111_rockethacks-hackathon-sustainability-ugcPost-7439766341236146176-E6rB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1BoH0B76-qDtyYXfCHMkdZmphbDCg1yOc">**My latest hackathon win**</a>
   
   📝 <a target="_blank" href="https://lnkd.in/p/gzyHgtXR">**My summer 2025 recap**</a>
-  
-  💼 <a target="_blank" href="https://lnkd.in/p/gkz3PFQT">**My internship journey**</a>
-  
+    
 </div>
 
 <h2 align="center">
@@ -101,7 +99,7 @@
     <img src="https://img.shields.io/badge/Blog-M%20Talks-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog" />
   </a>
   <br/>
-  <em>✨ Check out my latest thoughts on tech, coding, and more!</em>
+  <em>✨ Check out my latest thoughts on tech, life, and more!</em>
 </p>
 
 <h2 align="center">
